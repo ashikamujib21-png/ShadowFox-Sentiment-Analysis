@@ -1,4 +1,4 @@
-# 🐦 X (Twitter) Sentiment Analysis — ShadowFox Internship
+# 🐦 X (Twitter) Sentiment Analysis — ShadowFox Internship - Intermediate Level
 
 ## 📌 Project Overview
 This project performs **Sentiment Analysis on X (Twitter) data** using
